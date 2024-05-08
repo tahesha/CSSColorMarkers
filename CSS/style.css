@@ -3,11 +3,10 @@ h1 {
   }
   
   .container {
-    /* background-color: rgb(156, 12, 12); */
+    background-color: rgb(255, 255, 255);
     padding: 10px 0;
     border: solid black;
-    height: 100px;
-    width: 100px;
+    height: 110px;
   }
   
   .marker {
